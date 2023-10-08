@@ -191,3 +191,6 @@ In data ingestion - train_arr, test_arr,_= data transformation.iniate config.
 Initialise Model trainer.
 Then call model trainer with initiate model trainer and give train array, test array from above step. Print this. This is the r2 score. 
 Call data ingestion and then save to git. 
+
+007 Video
+Implement Hyperparameter tuning 
